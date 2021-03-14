@@ -1,0 +1,21 @@
+.swiper {
+  height: 212px;
+}
+
+.slider {
+  height: 212px !important;
+}
+
+.nav {
+  padding: 10px 0;
+  text-align: center;
+}
+
+.nav img {
+  height: 48px;
+}
+
+.nav p {
+  margin-top: 7px;
+  font-size: 13px;
+}
